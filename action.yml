@@ -1,4 +1,4 @@
-name: 'eks-kubectl'
+name: 'kubectl-for-eks'
 author: Vyacheslav G.
 description: kubectl tool with AWS SDK for EKS easy access (forked from Ian Belcher's repo)
 branding:
